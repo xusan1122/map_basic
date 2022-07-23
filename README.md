@@ -24,7 +24,7 @@ Output: Map
 
 ## Map_basic02
 
-Create a map called **'data'** add items at least two.
+Create a map called **'data'** , add at least two items to it.
 Return the variable.
 
 
@@ -33,7 +33,7 @@ Return the variable.
 
 ```Python
 Input: {}
-Output: {1:’one’, 3:’two’}
+Output: {1:'one', 3:'two'}
 
 ```
 
@@ -44,7 +44,7 @@ Output: {1:’one’, 3:’two’}
 
 ## Map_basic03
 
- Given argument data type of Map check it length greater than zero 
+ Given an argument type of Map.
 Return true if the length of the map is greater than zero, otherwise false.
 
 
@@ -52,7 +52,7 @@ Return true if the length of the map is greater than zero, otherwise false.
 **Example 1:**
 
 ```Python
-Input: {1:’one’, 3:’two’}
+Input: {1:'one', 3:'two'}
 Output: True
 
 ```
@@ -72,7 +72,7 @@ Output: False
 ## Map_basic04
 
 Given arguments **lst1** and **lst2** type of list. Create a map called **list_to_map** 
-And assign first arguments’s elements as key, second argument’s elements as value.
+And assign to it first arguments’s elements as key, second argument’s elements as value.
 Return list_to_map variable
 
 
@@ -80,16 +80,16 @@ Return list_to_map variable
 **Example 1:**
 
 ```Python
-Input: [1,2,3,4], [‘one’, ‘two’, ‘three’, ‘four’]
-Output: {1:’one’, 2: ‘two’, 3: ‘three’, 4: ‘four’}
+Input: [1,2,3,4], ['one', 'two', 'three', 'four']
+Output: {1:'one', 2: 'two', 3: 'three', 4: 'four'}
 
 ```
 
 **Example 2:**
 
 ```Python
-Input: [‘first’, ‘second’], [1,2]
-Output: {‘first’: 1, ‘second’: 2}
+Input: ['first', 'second'], [1,2]
+Output: {'first': 1, 'second': 2}
 ```
 **Constraints:**
 
@@ -106,7 +106,7 @@ Then return the map.
 
 ```Python
 Input: {}
-Output: {‘sanjar’: ‘saidov’}
+Output: {'sanjar': 'saidov'}
 
 ```
 
