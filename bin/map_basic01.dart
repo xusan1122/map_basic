@@ -5,7 +5,10 @@
 */
 
 Map func() {
-  return;
+  Map a={
+    1:'called'
+  };
+  return a;
 }
 
 void main() {
