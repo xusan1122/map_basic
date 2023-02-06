@@ -11,7 +11,7 @@ bool func(Map dct) {
   if (dct.length > 0) {
     return true;
   }
-  return true;
+  return false;
 }
 
 void main() {
